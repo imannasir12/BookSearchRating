@@ -39,18 +39,19 @@ Make sure you have the following installed:
 
 2. **Navigate to the Project Directory:**
 
-  cd BookSearchRating
+   cd BookSearchRating
 
 3. **Install the required npm packages:**
+
    npm install
 
 ### Running the Application
 
-1. Start the Development Server:
+1. **Start the Development Server:**
   Run the following command to start the app:
   npm start
 
-2. Open the App:
+2. **Open the App:**
 The app will open automatically in your default browser. If it doesn’t, visit http://localhost:3000 to view it.
 
 ## Usage
